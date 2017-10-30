@@ -351,7 +351,6 @@ forbannede	-4
 mørkeste	-2
 demonstrasjon	-1
 fare	-2
-døde	-3
 fastlåst	-2
 kjære	2
 dyrt	-3
@@ -408,8 +407,6 @@ knust	-2
 viet	3
 dick	-4
 kødd	-4
-dø	-3
-døde	-3
 vanskelig	-1
 dilemma	-1
 dire	-3
@@ -579,8 +576,6 @@ fantastic	4
 farse	-1
 fascistisk	-2
 fascistene	-2
-dødsfall	-3
-dødsfall	-3
 favør	2
 favoriserer	2
 favoritt	2
@@ -770,6 +765,7 @@ manglende evne	-2
 uvirksomhet	-2
 utilstrekkelig	-2
 inkompetanse	-2
+inkompetent	-2
 upraktisk	-2
 øke	1
 økt	1
@@ -908,6 +904,7 @@ messed	-2
 rote	-2
 tankeløse	-2
 elendighet	-2
+elendig	2
 villedende	-3
 savner	-2
 ugagn	-2
@@ -948,6 +945,7 @@ ikke bra	-2
 romanen	2
 beryktet	-2
 fungerer ikke	-3
+fungerer bra	2
 nøtter	-3
 utslette	-2
 utslettet	-2
@@ -1074,7 +1072,6 @@ protest	-2
 demonstranter	-2
 protester	-2
 protesterte	-2
-stolt	2
 stolt	2
 pseudovitenskap	-3
 straffe	-2
@@ -1209,7 +1206,6 @@ sjokkert	-2
 sjokkerende	-2
 skyte	-1
 nærsynt	-2
-kort-sightness	-2
 knapphet	-2
 knapphet	-2
 sjenert	-1
@@ -1245,7 +1241,7 @@ løse	1
 løst	1
 løser	1
 løse	1
-en slags	0
+problemer løst	2
 horunge	-5
 sår	-1
 beklager	-1
@@ -1279,8 +1275,6 @@ stopper	-1
 merkelig	-1
 kvalt	-2
 styrke	2
-styrke	2
-styrke	2
 styrkes	2
 styrker	2
 streik	-1
@@ -1291,6 +1285,7 @@ sterkere	2
 sterkest	2
 imponerende	4
 dum	-2
+dumt	-2
 suksess	2
 vellykket	3
 lide	-2
@@ -1413,8 +1408,8 @@ oppskakende	-2
 haster	-1
 nyttig	2
 nytten	2
-ubrukelig	-2
-ubrukelighet	-2
+ubrukelig	-3
+ubrukelighet	-4
 innvunnet	1
 sårbare	2
 ja	1
@@ -1547,6 +1542,7 @@ tosk	-2
 behjelpelig	2
 hjelp	2
 ikke hjelp	-4
+god hjelp	3
 kort ventetid	2
 lang ventetid	-2
 gøy	2
@@ -1559,14 +1555,18 @@ ikke fornøyd	-2
 håpløst	-2
 meget bra	3
 utrolig bra	3
-utrolig	-2
 skandale	-5
 problem	-1
 problematisk	-1
-ikke dekning	-2
+ikke dekning	-3
 raskt	2
+effektivt	2
 billig	2
 rimelig	2
+dyrt -2
+høye priser	-2
+høy pris	-2
+konurransedyktig	2
 prima	3
 tåpelig	-2
 toskete	-2
@@ -1596,12 +1596,31 @@ rasende	-3
 forbanna	-4
 informasjon	2
 ikke informasjon	-2
+ingen informasjon	-2
 veldig bra	2
 positiv	2
 utmerket	3
 sykt bra	3
-greit 1
-dårlig kommunikasjon -2
-forståelsesfull 2
-tydelig 1
-proff 1
+greit	1
+dårlig kommunikasjon	-2
+forståelsesfull	2
+tydelig	1
+proff	1
+problematisk	-1
+lang tid	-2
+kort tid	1
+oppgitt	-3
+treig	-2
+treg	-2
+aldri -2
+villrede	-1
+hurtig	2
+fort	2
+kjapt	2
+ikke mer -1
+urettferdig	-2
+ikke noe tess -3
+ikke noe vits -3
+ikke noe poeng -3
+
+
