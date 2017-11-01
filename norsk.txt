@@ -1563,7 +1563,7 @@ raskt	2
 effektivt	2
 billig	2
 rimelig	2
-dyrt -2
+dyrt	-2
 høye priser	-2
 høy pris	-2
 konurransedyktig	2
@@ -1612,15 +1612,13 @@ kort tid	1
 oppgitt	-3
 treig	-2
 treg	-2
-aldri -2
+aldri	-2
 villrede	-1
 hurtig	2
 fort	2
 kjapt	2
-ikke mer -1
+ikke mer	-1
 urettferdig	-2
-ikke noe tess -3
-ikke noe vits -3
-ikke noe poeng -3
-
-
+ikke noe tess	-3
+ikke noe vits	-3
+ikke noe poeng	-3
